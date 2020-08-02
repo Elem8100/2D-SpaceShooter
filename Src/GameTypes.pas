@@ -4,7 +4,7 @@ interface
 
 uses
   Windows, SysUtils, StrUtils, PXT.Sprites, Generics.Collections, Classes, Math,
-  Tools, System.Types, PXT.Types, PXT.Graphics, PXT.Canvas;
+  System.Types, PXT.Types, PXT.Graphics, PXT.Canvas;
 
 
 var
